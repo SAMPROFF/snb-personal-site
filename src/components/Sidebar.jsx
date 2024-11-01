@@ -49,10 +49,10 @@ const Sidebar = () => {
       </nav>
       <footer className={`mt-4 ${style.footer} small`}>
         <div className={`mt-3 ${style.media} `}>
-            <a href="#" className="mx-2" aria-label="Facebook"><FaFacebookF /></a>
-            <a href="#" className="mx-2" aria-label="Twitter"><FaTwitter /></a>
-            <a href="#" className="mx-2" aria-label="Instagram"><FaInstagram /></a>
-            <a href="#" className="mx-2" aria-label="LinkedIn"><FaLinkedinIn /></a>
+            <a href="https://web.facebook.com/SAMPROFF2002" className="mx-2" aria-label="Facebook"><FaFacebookF /></a>
+            <a href="https://twitter.com/mkrumahbonsu" className="mx-2" aria-label="Twitter"><FaTwitter /></a>
+            <a href="https://www.instagram.com/samproff2002/" className="mx-2" aria-label="Instagram"><FaInstagram /></a>
+            <a href="https://www.linkin.com/in/samuel-nkrumah-bonsu/" className="mx-2" aria-label="LinkedIn"><FaLinkedinIn /></a>
         </div>
         &copy; {new Date().getFullYear()} Samuel Nkrumah Bonsu. All rights reserved.
       </footer>

@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FaCommentDots, FaSyncAlt } from 'react-icons/fa';
+import { FaCommentDots } from 'react-icons/fa';
 
 // Import images
 import blog1 from '../assets/images/blog-1.jpg';
