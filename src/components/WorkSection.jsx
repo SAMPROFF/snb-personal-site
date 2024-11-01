@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './WorkSection.module.css'
-import { FaShareAlt, FaEye, FaHeart, FaSyncAlt } from 'react-icons/fa';
+import { FaShareAlt, FaEye, FaHeart, } from 'react-icons/fa';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Import images from ../assets/image
@@ -34,10 +34,10 @@ const WorkSection = () => {
         <div className="row mb-4">
           <div className="col text-center">
             <p className="work-menu">
-              <span><a href="#" className="active text-decoration-none">Graphic Design</a></span> {' | '}
-              <span><a href="#" className="text-decoration-none">Web Design</a></span> {' | '}
-              <span><a href="#" className="text-decoration-none">Software</a></span> {' | '}
-              <span><a href="#" className="text-decoration-none">Apps</a></span>
+              <span><a href="https://web.facebook.com/SAMPROFF2002" className="active text-decoration-none">Graphic Design</a></span> {' | '}
+              <span><a href="https://web.facebook.com/SAMPROFF2002" className="text-decoration-none">Web Design</a></span> {' | '}
+              <span><a href="https://web.facebook.com/SAMPROFF2002" className="text-decoration-none">Software</a></span> {' | '}
+              <span><a href="https://web.facebook.com/SAMPROFF2002" className="text-decoration-none">Apps</a></span>
             </p>
           </div>
         </div>
