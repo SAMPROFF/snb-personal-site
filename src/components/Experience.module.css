@@ -1,0 +1,20 @@
+.title {
+    margin-top: 5px;
+}
+
+.title h4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.time {
+    margin-right: 3rem;
+}
+
+.title p {
+    margin-left: 2rem;
+ }
+
+.block {
+    margin-bottom: 3rem;
+}

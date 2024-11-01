@@ -1,0 +1,75 @@
+.colorlibServices {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .headingMeta {
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #777;
+    display: block;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  
+  .colorlibHeading {
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .services {
+    padding: 30px;
+    border-radius: 10px;
+    color: #fff;
+    margin-bottom: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .services:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+  }
+  
+  .color1 {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  }
+  .color2 {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+  }
+  .color3 {
+    background: linear-gradient(135deg, #11998e, #38ef7d);
+  }
+  .color4 {
+    background: linear-gradient(135deg, #f7971e, #ffd200);
+  }
+  .color5 {
+    background: linear-gradient(135deg, #ff6a00, #ee0979);
+  }
+  .color6 {
+    background: linear-gradient(135deg, #3a1c71, #d76d77, #ffaf7b);
+  }
+  
+  .icon {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .desc h3 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+  }
+  
+  .desc p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0;
+    color: #f0f0f0;
+  }
+  

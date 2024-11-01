@@ -1,23 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+// App.js
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Sidebar from './components/Sidebar';
+import HeroSection from './components/HeroSection';
+import AboutSection from './components/AboutSection';
+import CounterSection from './components/CounterSection';
+import Services from './components/ServicesSection';
+import Skills from './components/SkillsSection';
+// import Education from './components/Education';
+import ExperienceSection from './components/ExperienceSection';
+import WorkSection from './components/WorkSection';
+import BlogSection from './components/BlogSection';
+import ContactSection from './components/ContactSection';
+
+import styles from './App.module.css';
+import Educationd from './components/EducationSection';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={styles.app}>
+      <Sidebar />
+      <main className={styles.main}>
+        <HeroSection />
+        <AboutSection />
+        <Services />
+        <CounterSection />
+        <Skills />
+        <Educationd />
+        <ExperienceSection />
+        <WorkSection />
+        <BlogSection />
+        <ContactSection />
+      </main>
     </div>
   );
 }

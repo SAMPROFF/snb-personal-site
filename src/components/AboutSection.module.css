@@ -1,0 +1,88 @@
+.colorlibAbout {
+    padding: 50px 0;
+  }
+  
+  .colorlibNarrowContent {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .aboutDesc {
+    text-align: left;
+  }
+
+  .aboutDesc p {
+    line-height: 1.7;
+    color: #666;
+  }
+  
+  .headingMeta {
+    font-size: 1.2rem;
+    color: #999;
+    display: block;
+    margin-bottom: 2rem;
+  }
+  
+  .colorlibHeading {
+    font-size: 2.5rem;
+    margin-top: 10px;
+    color: #333;
+    font-family: serif;
+  }
+  
+  .rowBottomPaddedSm {
+    margin-bottom: 30px;
+  }
+  
+  .services {
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+
+  .services h3 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    
+  }
+
+  .color1 { background-color: #e3f2fd; }
+  .color2 { background-color: #f1f8e9; }
+  .color3 { background-color: #fff3e0; }
+  .color4 { background-color: #fce4ec; }
+  
+  .icon2 {
+    font-size: 2rem;
+    color: #333;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .hire {
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgba(114, 248, 248, 0.877);
+    text-align: left;
+    padding: 1.5rem 2rem;
+    border-radius: 10px;
+  }
+
+  .hire h2 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    font-family: serif;
+    line-height: 1.4;
+    /* margin: 3rem 1rem 1.5rem 1rem; */
+  }
+  
+  .btnHire {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  

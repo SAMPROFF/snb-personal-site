@@ -1,0 +1,29 @@
+.colorlibEducation {
+    padding: 60px 0;
+    background-color: #f9f9f9;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .headingMeta {
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #777;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .colorlibHeading {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .panelTitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  

@@ -1,0 +1,67 @@
+.colorlibSkills {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+    width: 90%;
+    margin: auto;
+  }
+  
+  .headingMeta {
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #777;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .colorlibHeading {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .progressWrap {
+    margin-bottom: 20px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 1.5rem;
+  }
+  
+  .progress {
+    background-color: #e9ecef;
+    border-radius: 5000px;
+    height: 10px;
+  }
+  
+  .progressBar {
+    height: 100%;
+    line-height: 5px; /* Vertically center the text */
+    color: white;
+    text-align: center;
+    transition: width 0.4s ease;
+  }
+
+  .percentage {
+    font-size: 10px;
+  }
+  
+  .color1 {
+    background-color: #ff6a00;
+  }
+  .color2 {
+    background-color: #007bff;
+  }
+  .color3 {
+    background-color: #28a745;
+  }
+  .color4 {
+    background-color: #ffc107;
+  }
+  .color5 {
+    background-color: #6f42c1;
+  }
+  .color6 {
+    background-color: #17a2b8;
+  }
+  

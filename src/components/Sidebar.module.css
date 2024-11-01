@@ -1,0 +1,35 @@
+.sidebar {
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    z-index: 1000;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* opacity: 0.1; */
+    background: #000;
+}
+
+.navLinks {
+    margin-top: 0;
+    text-align: center;
+}
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.footer {
+    align-self: end;
+    margin-top: auto;
+}
