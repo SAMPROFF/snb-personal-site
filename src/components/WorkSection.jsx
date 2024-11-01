@@ -50,9 +50,9 @@ const WorkSection = () => {
                   <h3><a href="work.html" className="text-white text-decoration-none">{project.title}</a></h3>
                   <span className="text-muted">{project.category}</span>
                   <p className="icon d-flex gap-2 mt-2">
-                    <span><a href="#" className="text-white"><FaShareAlt /></a></span>
-                    <span><a href="#" className="text-white"><FaEye /> 100</a></span>
-                    <span><a href="#" className="text-white"><FaHeart /> 49</a></span>
+                    <span><a href="https://web.facebook.com/SAMPROFF2002" className="text-white"><FaShareAlt /></a></span>
+                    <span><a href="https://web.facebook.com/SAMPROFF2002" className="text-white"><FaEye /> 100</a></span>
+                    <span><a href="https://web.facebook.com/SAMPROFF2002" className="text-white"><FaHeart /> 49</a></span>
                   </p>
                 </div>
               </div>
